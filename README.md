@@ -2,7 +2,7 @@
 
  **`BackEnd Skills Coupled With Data Analytics`**
 
-Anyone would be revered and admired by others for pursuing their passion as a career. That is preciously how I envision myself. I am a motivated software developer, data analytics enthusiast, and a networking curious student of life. A self-driven learner with a keen interest in the ever-changing technological world. My curiosity is mostly peaked by backend development, most specifically with JavaScript using NodeJS. I always seek to learn more not only from my preferred development language but also from others with vibrant and active communities such as Python(Jupyter Notebook) and R for data analytics. Configuring networks using Cisco Packet Tracer as a pastime activity and an avid Call of Duty Gamer😎🎮. Moreover, one of the best no. 11 on a pitch⚽.
+Anyone would be revered and admired by others for pursuing their passion as a career. That is preciously how I envision myself. I am a motivated software developer, data analytics enthusiast, and a networking curious student of life. A self-driven learner with a keen interest in the ever-changing technological world. My curiosity is mostly peaked by backend development, most specifically with JavaScript using NodeJS. I always seek to learn more not only from my preferred development language but also from others with vibrant and active communities such as Python(Jupyter Notebook) and R for data analytics. An avid Call of Duty Gamer😎🎮 and one of the best no. 11 on a pitch⚽.
 
 ---
 ### 🧰 Languages and Tools
