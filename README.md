@@ -1,4 +1,4 @@
-# 🐱‍🏍Kingmulla👓🎮
+# 🐱‍🏍Kingmulla👓
 
  **`BackEnd Skills Coupled With Data Analytics`**
 
